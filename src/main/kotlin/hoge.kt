@@ -1,0 +1,3 @@
+fun hoge() {
+    println("hoge")
+}
